@@ -1,2 +1,13 @@
+# Dependencias de Node
 node_modules/
+
+# Reportes de cobertura de pruebas
 coverage/
+
+# Archivos de configuración local o variables de entorno (por si acaso)
+.env
+.env.local
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
